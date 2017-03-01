@@ -1,0 +1,9 @@
+{
+  "name": "boost-throw-exception",
+  "dependencies": {
+    "boost-config": "1.63.0",
+    "boost-detail": "1.63.0",
+    "boost-exception": "1.63.0",
+    "boost-utility": "1.63.0"
+  }
+}
